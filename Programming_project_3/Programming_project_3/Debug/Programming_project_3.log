@@ -1,0 +1,29 @@
+﻿  Source.cpp
+C:\Users\karin\source\repos\Programming_project_3\Programming_project_3\Source.cpp(47,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\karin\source\repos\Programming_project_3\Programming_project_3\Source.cpp(51,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\karin\source\repos\Programming_project_3\Programming_project_3\Source.cpp(57,8): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\karin\source\repos\Programming_project_3\Programming_project_3\Source.cpp(70,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\karin\source\repos\Programming_project_3\Programming_project_3\Source.cpp(126,14): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\karin\source\repos\Programming_project_3\Programming_project_3\Source.cpp(307,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\karin\source\repos\Programming_project_3\Programming_project_3\Source.cpp(325,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\karin\source\repos\Programming_project_3\Programming_project_3\Source.cpp(330,14): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\karin\source\repos\Programming_project_3\Programming_project_3\Source.cpp(347,14): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\karin\source\repos\Programming_project_3\Programming_project_3\Source.cpp(353,15): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\karin\source\repos\Programming_project_3\Programming_project_3\Source.cpp(368,38): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\karin\source\repos\Programming_project_3\Programming_project_3\Source.cpp(372,38): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\karin\source\repos\Programming_project_3\Programming_project_3\Source.cpp(379,38): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\karin\source\repos\Programming_project_3\Programming_project_3\Source.cpp(383,38): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\karin\source\repos\Programming_project_3\Programming_project_3\Source.cpp(405,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\karin\source\repos\Programming_project_3\Programming_project_3\Source.cpp(417,15): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\karin\source\repos\Programming_project_3\Programming_project_3\Source.cpp(444,16): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\karin\source\repos\Programming_project_3\Programming_project_3\Source.cpp(460,16): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\karin\source\repos\Programming_project_3\Programming_project_3\Source.cpp(493,15): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\karin\source\repos\Programming_project_3\Programming_project_3\Source.cpp(512,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\karin\source\repos\Programming_project_3\Programming_project_3\Source.cpp(548,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\karin\source\repos\Programming_project_3\Programming_project_3\Source.cpp(575,14): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\karin\source\repos\Programming_project_3\Programming_project_3\Source.cpp(619,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\karin\source\repos\Programming_project_3\Programming_project_3\Source.cpp(623,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\karin\source\repos\Programming_project_3\Programming_project_3\Source.cpp(637,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\karin\source\repos\Programming_project_3\Programming_project_3\Source.cpp(641,14): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\karin\source\repos\Programming_project_3\Programming_project_3\Source.cpp(785,28): warning C4018: <: несоответствие типов со знаком и без знака
+  Programming_project_3.vcxproj -> C:\Users\karin\source\repos\Programming_project_3\Debug\Programming_project_3.exe

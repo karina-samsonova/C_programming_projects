@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\karin\source\repos\Programming_project\Programming_project\Source.cpp(167,21): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\karin\source\repos\Programming_project\Programming_project\Source.cpp(627,23): warning C4477: "sscanf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "2" имеет тип "int *"
+C:\Users\karin\source\repos\Programming_project\Programming_project\Source.cpp(627,23): warning C4477: "sscanf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "3" имеет тип "int *"
+  Programming_project.vcxproj -> C:\Users\karin\source\repos\Programming_project\Debug\Programming_project.exe

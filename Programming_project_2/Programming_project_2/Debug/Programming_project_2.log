@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\karin\source\repos\Programming_project_2\Programming_project_2\Source.cpp(671,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\karin\source\repos\Programming_project_2\Programming_project_2\Source.cpp(693,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Programming_project_2.vcxproj -> C:\Users\karin\source\repos\Programming_project_2\Debug\Programming_project_2.exe

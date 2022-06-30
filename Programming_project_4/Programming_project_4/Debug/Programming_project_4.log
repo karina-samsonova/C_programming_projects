@@ -1,0 +1,2 @@
+﻿server.obj : error LNK2005: _main уже определен в client.obj
+C:\Users\karin\source\repos\Programming_project_4\Debug\Programming_project_4.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более

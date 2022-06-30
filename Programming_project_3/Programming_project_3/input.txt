@@ -1,0 +1,35 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+
+int a()
+{
+return b();
+}
+int b(){
+return c();
+}
+int c(){
+return 0;
+}int main()
+{
+
+
+for(;;){
+		}
+int			abc;
+int x=0  ;
+				while(a < 10 && (b == 0 || c <3)){
+				/*a++;
+				b++;*/
+				while(a < 10 && (	b == 0 || c<3)){
+				a++; b+=1; ++c;
+			}
+				c--;
+				}/*ком
+	мен
+	тарий*/
+
+	double y;
+	
+					return 0;
+}
